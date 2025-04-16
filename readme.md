@@ -1,3 +1,6 @@
+<img width="945" alt="pike sitePNG" src="https://github.com/user-attachments/assets/3f7402a3-8422-48f5-9ffd-637a67fadc9a" />
+
+
 # Hi, I'm Umar Khatab
 
 I'm a blockchain engineer and DeFi researcher with 3+ years of experience building decentralized systems. I’m thrilled to announce that I’ve joined **Pike Finance** as a **DeFi Researcher**—where I'll be helping shape the future of cross-chain lending markets!
